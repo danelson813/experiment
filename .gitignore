@@ -1,0 +1,4 @@
+.idea/
+venv/
+*.log
+.DS_Store
